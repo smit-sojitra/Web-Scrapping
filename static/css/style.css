@@ -4,7 +4,6 @@ body {
 body * {
   box-sizing: border-box;
 }
-
 .header {
   background-color: #327a81;
   color: white;
@@ -13,7 +12,6 @@ body * {
   text-align: center;
   text-transform: uppercase;
 }
-
 img {
   border-radius: 50%;
   height: 60px;
